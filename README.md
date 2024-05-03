@@ -1,5 +1,4 @@
 # React State Lab
-
 ## Learning Goals
 
 - Update state based on events
